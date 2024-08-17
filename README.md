@@ -1,4 +1,4 @@
-# Festivos Colomibia (Emiliani)
+# Festivos Colombia (Emiliani)
 
 Esta librería PHP proporciona una implementación completa de las festividades en Colombia, basada en la Ley Emiliani. La Ley Emiliani (Ley 51 de 1983) establece que algunas festividades nacionales deben ser trasladadas al siguiente lunes para fomentar el turismo y el descanso de los trabajadores. Esta librería permite calcular de manera precisa los días festivos según la Ley Emiliani para cualquier año dado, verificar si una fecha específica es festiva, y calcular días hábiles entre dos fechas.
 
