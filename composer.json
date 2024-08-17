@@ -1,0 +1,18 @@
+{
+    "name": "jeffry/emiliani-festivos-colombia",
+    "description": "Listar los festivos en Colombia segun la ley",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jeffry\\EmilianiFestivosColombia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeffry Barrios",
+            "email": "jeffrybarriosgomez@gmail.com"
+        }
+    ],
+    "require": {}
+}
